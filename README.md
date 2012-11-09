@@ -6,5 +6,5 @@ Redis management tool written in node.js
 
 ```bash
 $ npm install -g redis-commander
-$ redis-commander --port 8081 --redis-host localhost
+$ redis-commander --port 8081 --redis-host localhost --redis-db 0
 ```
